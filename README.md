@@ -36,7 +36,7 @@ cd ai-chat-cli
 ```
 
 
-2. Configure Environment Variables
+2. Configure Variables
 write your configurations into chat.sh
 ```bash
 API_KEY="your_api_key_here"                # Replace with your API key
