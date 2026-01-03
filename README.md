@@ -7,10 +7,15 @@ A **Bash-based AI chat terminal** for interacting with local or remote Large Lan
 ## Features
 
 ✅ **Local LLM Integration**: Connects to locally hosted LLM servers (e.g., `http://xxx.xxx.xxx.xxx:1234/v1`).
+
 ✅ **Conversation Context**: Automatically saves and loads chat history to maintain context.
+
 ✅ **Multi-Model Support**: Dynamically fetches available models and allows switching between them.
+
 ✅ **Interactive Mode**: Supports continuous conversation until the user exits.
+
 ✅ **Customizable**: Configure API keys, models, and server URLs via environment variables or config files.
+
 ✅ **Pretty Output**: Uses `glow` for syntax-highlighted messages with colored timestamps.
 
 ---
